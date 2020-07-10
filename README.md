@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/python-3.8.0-orange.svg)](https://www.python.org/downloads/release/python-380/)
-[![](https://img.shields.io/badge/django-2.2-green.svg)](https://docs.djangoproject.com/en/2.2/releases/2.2/)
+[![](https://img.shields.io/badge/pyecharts1.8.1-green.svg)](https://github.com/pyecharts/pyecharts)
 [![](https://img.shields.io/badge/license-MIT-000000.svg)](https://opensource.org/licenses/MIT)
 
 # pyecharts_demo
