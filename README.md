@@ -1,6 +1,8 @@
 # pyecharts_demo
-pyecharts实例代码
-教程首发地址:https://jackypy.xyz/article-detail/4
+> pyecharts详细教程实例代码
+> 教程首发于博客:https://jackypy.xyz/article-detail/4
+
+
 pyecharts是由百度开源的**Python数据可视化工具**,功能强大,可以绘制几乎所有*静态图表*，和matplotlib系列媲美,使用简单,适合初学者使用,本教程会详细的讲解如何用它绘制漂亮的图表.
 
 ## 教程特点
